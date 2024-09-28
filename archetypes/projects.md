@@ -9,3 +9,4 @@ tech_used:
 - CSS
 - HTML
 ---
+Description of the {{ replace .Name "-" " " | title }} project...
