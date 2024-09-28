@@ -2,6 +2,11 @@
 <div class="project-container">
 <section class="project-list">
 <h2>Projects</h2>
+<ul>
+    {{ end }}
+    {{ range (where .Site.RegularPages "Type" "in" "projects") }}
+    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    </ul>
 </section>
 <section class="project">
 <h2>{{ .Title }}</h2>
