@@ -58,6 +58,13 @@
       <description>A brief description of the AwesomeCo project.</description>
     </item>
     <item>
+      <title>Jabberwocky</title>
+      <link>http://localhost:1313/projects/jabberwocky/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/jabberwocky/</guid>
+      <description>A brief description of the Jabberwocky project.</description>
+    </item>
+    <item>
       <title>Linkitivity</title>
       <link>http://localhost:1313/projects/linkitivity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
